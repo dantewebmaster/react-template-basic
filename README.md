@@ -1,5 +1,5 @@
 # React Template Basic
-Initial setup of an application template using a minimal React front-end stack.
+This template is a starter point for an application using ReactJS as a front-end framework.
 
 ## Starting the project
 

@@ -7,7 +7,7 @@ export default function User({
   return (
     <>
       <img className="avatar img-circle" src={picture.large} alt={name.first} />
-      <p>{name.title} {name.first}, {name.last}</p>
+      <p>{name.first} {name.last}</p>
     </>
   );
 }
